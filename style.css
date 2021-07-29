@@ -1,0 +1,16 @@
+body{
+  background-color: #BBF2BF;
+  font-family: 'Roboto Mono', monospace;
+}
+
+button{
+  background-color: #F2BBCF;
+  border:#A66F83;
+  border-radius: 10px;
+  padding:10px;
+  
+}
+
+.magicBrainBall{
+  border-style: solid;
+}
